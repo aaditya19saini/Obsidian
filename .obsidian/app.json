@@ -4,6 +4,7 @@
   "newFileLocation": "root",
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
