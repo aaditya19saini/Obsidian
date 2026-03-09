@@ -3,3 +3,4 @@
 3. [[Sensitivity to learning rate--- Gradient Descent]]
 
 
+links: [[Gradient decent]]

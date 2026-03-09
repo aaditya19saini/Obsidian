@@ -38,3 +38,4 @@ More generally, both RMSE and MAE are ways to measure the distance between the v
 - **Euclidean Norm ($\ell_2$ norm):** Computing the root of a sum of squares (RMSE) corresponds to the Euclidean norm, noted $| \cdot |_2$.
 - **Manhattan Norm ($\ell_1$ norm):** Computing the sum of absolutes (MAE) corresponds to the $\ell_1$ norm, noted $| \cdot |_1$.
 - **General $\ell_k$ norm:** The $\ell_k$ norm of a vector $\mathbf{v}$ with $n$ elements is generally defined as $| \mathbf{v} |_k = \left( \sum_{j=0}^{n} |v_j|^k \right)^{\frac{1}{k}}$. The higher the norm index $k$, the more the measure focuses on large values and neglects small ones.
+links: [[Linear Regression]]
