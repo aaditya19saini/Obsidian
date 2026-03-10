@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/PYQ's.md",
+                "file": "Personal/Amazon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PYQ's"
+              "title": "Amazon"
+            }
+          },
+          {
+            "id": "74ccf8e55368ae99",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,8 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b98d1358e7995b2",
+  "active": "74ccf8e55368ae99",
   "lastOpenFiles": [
+    "Personal/Amazon.md",
+    "Personal/PYQ's.md",
+    "Aaditya Saini's Technical Skills.md",
     "README.md",
     "ML/Manifold learning.md",
     "ML/Root Mean Squared Error (RMSE).md",
@@ -183,7 +197,6 @@
     "Personal/New note.pdf",
     "Personal/Questions.md",
     "Personal/Untitled.md",
-    "Personal/PYQ's.md",
     "Personal/Downstream Processing.md",
     "ML/Activation functions.md",
     "Personal",
@@ -201,8 +214,6 @@
     "ML/Pasted image 20260120215516.png",
     "ML/Min-max scaling.md",
     "Projects/LSTM and lagged features (project).md",
-    "ML/Kernel PCA (kPCA).md",
-    "ML/Ensemble Learning.md",
     "Projects",
     "New folder",
     "Pasted image 20260120215516.png",
