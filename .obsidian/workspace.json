@@ -4,77 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "f95c84a32811bf52",
+        "id": "90796a7d95cb283e",
         "type": "tabs",
         "children": [
           {
-            "id": "74ccf8e55368ae99",
+            "id": "0c7d1ba1760351fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Pharmaceutical technology/Absorption.md",
+                "file": "Project Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Absorption"
+              "title": "Project Ideas"
             }
           },
           {
-            "id": "a3005b5b877a549c",
+            "id": "31f3bb61419909dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drug Distribution.md",
+                "file": "transducers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drug Distribution"
+              "title": "transducers"
             }
           },
           {
-            "id": "fe030faa3bb47ae5",
+            "id": "181c6264e43482ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metabolism of Drugs.md",
+                "file": "TF-IDF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metabolism of Drugs"
+              "title": "TF-IDF"
             }
           },
           {
-            "id": "1e6582e31f0d726d",
+            "id": "1b85e05963a1e154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excretion.md",
+                "file": "Multinomial NB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Excretion"
+              "title": "Multinomial NB"
             }
           },
           {
-            "id": "b44f1c563ccd628d",
+            "id": "a566e65438762cf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Biosaftey, bioethics and ipr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Biosaftey, bioethics and ipr"
             }
           }
         ],
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b32bd60c07d0ebdd",
@@ -206,14 +205,23 @@
               "icon": "lucide-list",
               "title": "Outline of Linear regression"
             }
+          },
+          {
+            "id": "7486401b79e1f89e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,18 +231,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b44f1c563ccd628d",
+  "active": "a566e65438762cf2",
   "lastOpenFiles": [
-    "Excretion.md",
+    "Multinomial NB.md",
+    "Biosaftey, bioethics and ipr.md",
     "Untitled 1.md",
-    "Pasted image 20260312202053.png",
-    "Metabolism of Drugs.md",
+    "Pasted image 20260315185130.png",
+    "TF-IDF.md",
+    "transducers.md",
+    "Project Ideas.md",
     "Personal/Pharmaceutical technology/Absorption.md",
-    "Pasted image 20260312191526.png",
     "Drug Distribution.md",
+    "Clinical trials.md",
+    "Routes of drug administrations.md",
+    "Excretion.md",
+    "Metabolism of Drugs.md",
+    "Pasted image 20260312202053.png",
+    "Pasted image 20260312191526.png",
     "Pasted image 20260312185219.png",
     "Screenshot 2026-03-12 141407.png",
     "Untitled.md",
@@ -248,20 +266,13 @@
     "ML/Decision Trees.md",
     "Personal/Pharmaceutical technology",
     "Projects/README.md",
-    "Project Ideas.md",
     "Personal/PYQ's.md",
     "Aaditya Saini's Technical Skills.md",
     "ML/Manifold learning.md",
     "ML/Root Mean Squared Error (RMSE).md",
     "ML/Regression MLP.md",
     "ML/Polynomial regression.md",
-    "ML/Generalization.md",
-    "ML/Issues during Gradient descent.md",
-    "ML/Untitled 2.md",
     "Personal/New note.pdf",
-    "Personal/Questions.md",
-    "Personal/Untitled.md",
-    "Personal/Downstream Processing.md",
     "Personal",
     "ML/Pasted image 20260304135256.png",
     "Database file.base",
@@ -272,7 +283,6 @@
     "Pasted image 20260120215516.png",
     "Numpy",
     "Untitled 1.base",
-    "ML/Pasted image 20251116172524.png",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 1.canvas"
