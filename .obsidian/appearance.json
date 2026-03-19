@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Obsidian Nord",
-  "theme": "obsidian",
-  "accentColor": "#0742f2",
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "moonstone",
+  "accentColor": "#000000",
   "baseFontSize": 18
 }

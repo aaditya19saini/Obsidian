@@ -1,5 +1,7 @@
 [
   "highlightr-plugin",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-mind-map",
+  "obsidian-annotator"
 ]
