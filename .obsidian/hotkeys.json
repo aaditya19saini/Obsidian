@@ -80,5 +80,14 @@
       ],
       "key": "P"
     }
+  ],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }
