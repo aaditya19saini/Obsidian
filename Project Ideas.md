@@ -7,3 +7,5 @@
      - analyze the history of illness 
      - analyze the family history. 
      - huge database. 
+6. A depth and weight perception engine to be used in weight prediction of a food item
+7. 
