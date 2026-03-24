@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "833b80889c853c4d",
+            "id": "965e512c10840f3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Ideas.md",
+                "file": "resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Ideas"
+              "title": "resume"
             }
           }
         ]
@@ -177,20 +177,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "833b80889c853c4d",
+  "active": "965e512c10840f3a",
   "lastOpenFiles": [
-    "Projects/Pasted image 20260322165822.png",
     "Untitled.base",
+    "resume.md",
+    "Projects/Pasted image 20260322165822.png",
     "Projects/Monocular depth estimation.md",
     "Pasted image 20260322165801.png",
     "Projects/snapnutrition_project_notes.md",
     "Projects/project- stock price prediction model.md",
     "Project Ideas.md",
-    "Untitled.md",
     "Untitled 1.base",
     "Projects/README.md",
     "Projects/Prompts.md",
