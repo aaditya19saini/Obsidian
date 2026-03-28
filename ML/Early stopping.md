@@ -1,7 +1,7 @@
 
 ## Explanation of Early Stopping
 
-- **Early Stopping** is a regularization method used primarily for iterative learning algorithms, such as Gradient Descent variants or sequential ensemble techniques.
+- **Early Stopping** is a regularization method used primarily for iterative learning algorithms, such as [[Gradient descent]] variants or sequential ensemble techniques.
 
 ### Core Mechanism: Monitoring Overfitting
 

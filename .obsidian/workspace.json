@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume.md",
+                "file": "ML/Activation functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resume"
+              "title": "Activation functions"
+            }
+          },
+          {
+            "id": "9825f68cfde772a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/DEEP/MODEL WITH SEQUENTIAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MODEL WITH SEQUENTIAL"
+            }
+          },
+          {
+            "id": "9cbc1bd52db92c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wide and Deep NEAURAL NETWORKS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wide and Deep NEAURAL NETWORKS"
+            }
+          },
+          {
+            "id": "29145430465ed519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building Models using functional API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building Models using functional API"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gradient descent ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,10 +223,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "965e512c10840f3a",
+  "active": "29145430465ed519",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Pasted image 20260328194858.png",
+    "Wide and Deep NEAURAL NETWORKS.md",
+    "Building Models using functional API.md",
+    "27 March.md",
+    "ML/DEEP/MODEL WITH SEQUENTIAL.md",
+    "Untitled.md",
+    "ML/Activation functions.md",
+    "ML/DEEP/Models with functional API.md",
+    "ML/Dual problem.md",
+    "ML/Gradient descent.md",
+    "ML/Early stopping.md",
+    "ML/PCA.md",
+    "ML/TF-IDF.md",
+    "SEM/Metabolism of Drugs.md",
+    "Projects/README.md",
+    "ML/DEEP",
     "resume.md",
+    "Untitled.base",
     "Projects/Pasted image 20260322165822.png",
     "Projects/Monocular depth estimation.md",
     "Pasted image 20260322165801.png",
@@ -191,7 +250,6 @@
     "Projects/project- stock price prediction model.md",
     "Project Ideas.md",
     "Untitled 1.base",
-    "Projects/README.md",
     "Projects/Prompts.md",
     "SEM/Food processing.md",
     "Freezing.md",
@@ -200,27 +258,13 @@
     "Dehydration.md",
     "Thermal.md",
     "D,Z and F values.md",
-    "Food.md",
-    "Excalidraw/Drawing 2026-03-19 11.01.08.excalidraw.md",
     "Pasted image 20260319233448.png",
     "Pasted image 20260319232442.png",
     "Pasted image 20260319230906.png",
-    "SEM/Untitled 1.md",
-    "ML/Multinomial NB.md",
     "SEM",
-    "ML/Untitled",
-    "ML/TF-IDF.md",
-    "SEM/Clinical trials.md",
-    "SEM/Routes of drug administrations.md",
-    "SEM/Excretion.md",
     "SEM/Pasted image 20260312202053.png",
-    "SEM/Metabolism of Drugs.md",
     "SEM/Pasted image 20260312191526.png",
     "SEM/Pasted image 20260312185219.png",
-    "SEM/Drug Distribution.md",
-    "transducers.md",
-    "SEM/Biosaftey, bioethics and ipr.md",
-    "SEM/Biosafety.md",
     "Excalidraw",
     "Personal/Pharmaceutical technology",
     "Personal/New note.pdf",

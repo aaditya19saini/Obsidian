@@ -1,4 +1,4 @@
-tags: [[Linear Regression]], [[Gradient decent]]
+tags: [[Linear Regression]], [[Gradient descent]]
 - picks a random instance in the training set at every step and computes the gradients based only on that single instance.
 - much faster
 - makes it possible to train on huge training sets

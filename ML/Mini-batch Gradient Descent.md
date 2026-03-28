@@ -1,4 +1,4 @@
-tags: [[Linear Regression]] , [[Gradient decent]]
+tags: [[Linear Regression]] , [[Gradient descent]]
 
 - - A hybrid of Batch GD and Stochastic GD.
 
