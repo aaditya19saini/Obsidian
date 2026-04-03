@@ -18,3 +18,6 @@ Let’s go through each line of this code: •
 4. Next, we create a Concatenate() layer, and once again we immediately use it like a function, to concatenate the input and the output of the second hidden layer (you may prefer the keras.layers.concatenate() function, which creates a Con catenate layer and immediately calls it with the given inputs). 
 5. Then we create the output layer, with a single neuron and no activation function, and we call it like a function, passing it the result of the concatenation. 
 6. Lastly, we create a Keras Model, specifying which inputs and outputs to use.
+
+
+[[Models with functional API]]
