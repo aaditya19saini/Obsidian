@@ -30,8 +30,33 @@ for example:
 ---
 ![[Pasted image 20260304135256.png]]
 
+## Geron Deep Dive: Code & Advanced Math
+Activation functions are what allow Neural Networks to learn non-linear decision boundaries. Without them, an MLP is just a giant linear model.
 
+### 1. ReLU (Rectified Linear Unit)
+$$ \text{ReLU}(z) = \max(0, z) $$
+Continuous but not differentiable at $z=0$ (derivative is 0 or 1). Very fast to compute.
+- **Problem:** "Dying ReLUs". If a neuron's weights are updated such that $W^T x + b < 0$ for all instances, the gradient becomes 0, and the neuron dies forever.
 
+### 2. Leaky ReLU
+$$ \text{LeakyReLU}_\alpha(z) = \max(\alpha z, z) $$
+$\alpha$ is usually set to 0.01. This ensures the neuron never fully "dies".
+
+### 3. ELU (Exponential Linear Unit)
+$$ \text{ELU}_\alpha(z) = \begin{cases} \alpha (\exp(z) - 1) & \text{if } z < 0 \\ z & \text{if } z \ge 0 \end{cases} $$
+Smoother than ReLU (differentiable everywhere), faster convergence, but slower to compute.
+
+### Implementation
+```python
+from tensorflow import keras
+
+# Setting an activation in a Dense layer
+keras.layers.Dense(50, activation="elu")
+
+# Setting Leaky ReLU requires a separate layer
+keras.layers.Dense(50, kernel_initializer="he_normal")
+keras.layers.LeakyReLU(alpha=0.2)
+```
 
 ### Related Links
 [[Regression MLP]] - [[AutoDIFF]] - [[Vanishing and Exploding Gradients]] - [[Fine tuning hyperparameters in NN]] - [[Zooming in hyper-params tuning]] - [[Building Models using functional API]] - [[Models with functional API]] - [[MODEL WITH SEQUENTIAL]] - [[Wide and Deep NEAURAL NETWORKS]] - [[Population Based Training of Neural Networks (DeepMind, 2017)]] - [[Tensorflow]] - [[Pytorch]]

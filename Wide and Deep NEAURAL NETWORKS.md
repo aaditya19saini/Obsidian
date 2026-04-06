@@ -44,5 +44,23 @@ Here’s a clear summary of the main points from the paper **“Wide & Deep Lear
 
 Would you like me to also create a **visual workflow diagram** of the Wide & Deep pipeline (data generation → training → serving) to make the architecture easier to grasp for revision?
 
+## Geron Deep Dive: Code & Advanced Math
+The Wide & Deep architecture (introduced by Heng-Tze Cheng et al. in 2016) connects all or some features directly to the output layer.
+- **Deep Path:** Learns complex, generalized deep patterns.
+- **Wide Path:** Learns simple, highly specific rules directly from the input without passing through the hidden layers.
+
+This acts identically to the Functional API concatenation step:
+```python
+input_ = keras.layers.Input(shape=X_train.shape[1:])
+hidden1 = keras.layers.Dense(30, activation="relu")(input_)
+hidden2 = keras.layers.Dense(30, activation="relu")(hidden1)
+
+# The 'Wide' path connecting the original input directly to the deep output
+concat = keras.layers.concatenate([input_, hidden2])
+output = keras.layers.Dense(1)(concat)
+
+model = keras.models.Model(inputs=[input_], outputs=[output])
+```
+
 ### Related Links
 [[Activation functions]] - [[Regression MLP]] - [[AutoDIFF]] - [[Vanishing and Exploding Gradients]] - [[Fine tuning hyperparameters in NN]] - [[Zooming in hyper-params tuning]] - [[Building Models using functional API]] - [[Models with functional API]] - [[MODEL WITH SEQUENTIAL]] - [[Population Based Training of Neural Networks (DeepMind, 2017)]] - [[Tensorflow]] - [[Pytorch]]

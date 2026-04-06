@@ -23,5 +23,31 @@ The Keras Sequential API is used to build neural networks that are composed of a
 
 **5. Making Predictions** Finally, you can use the trained model to make predictions on new, unseen instances by calling the `model.predict()` method. For classification tasks, this outputs the estimated probabilities for each class; alternatively, you can use `model.predict_classes()` to directly output the class index with the highest probability.
 
+## Geron Deep Dive: Code & Advanced Math
+The `Sequential` API is the simplest way to build a Keras model, consisting of an exact linear stack of layers.
+
+### Compiling and Summary code
+```python
+from tensorflow import keras
+
+model = keras.models.Sequential([
+    keras.layers.Flatten(input_shape=[28, 28]), # Flattens 2D images to 1D
+    keras.layers.Dense(300, activation="relu"),
+    keras.layers.Dense(100, activation="relu"),
+    keras.layers.Dense(10, activation="softmax") # 10 classes
+])
+
+model.summary()
+
+# The loss function "sparse_categorical_crossentropy" is used when classes are exclusive
+# e.g., an image is exactly class 1 or class 5. 
+model.compile(loss="sparse_categorical_crossentropy",
+              optimizer="sgd",
+              metrics=["accuracy"])
+
+# Training
+# history = model.fit(X_train, y_train, epochs=30, validation_data=(X_valid, y_valid))
+```
+
 ### Related Links
 [[Activation functions]] - [[Regression MLP]] - [[AutoDIFF]] - [[Vanishing and Exploding Gradients]] - [[Fine tuning hyperparameters in NN]] - [[Zooming in hyper-params tuning]] - [[Building Models using functional API]] - [[Models with functional API]] - [[Wide and Deep NEAURAL NETWORKS]] - [[Population Based Training of Neural Networks (DeepMind, 2017)]] - [[Tensorflow]] - [[Pytorch]]

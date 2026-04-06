@@ -29,6 +29,20 @@ Because the backpropagation algorithm works by going from the output layer to th
 
 **4. Gradient Clipping** To specifically lessen the **exploding** gradients problem, you can simply clip the gradients during backpropagation so that they never exceed a certain threshold. This technique is most commonly used in recurrent neural networks, where Batch Normalization is trickier to implement.
 
+## Geron Deep Dive: Code & Advanced Math
+During backpropagation, gradients are continually multiplied by the layer weights. If the weights are $< 1$ (or using a sigmoid activation), the gradients get vanishingly small by the time they reach the lower tiers (Vanishing Gradients). If $> 1$, they compound and explode to NaN (Exploding Gradients).
+
+### Mitigation 1: Initialization
+We must ensure the variance of the outputs is equal to the variance of the inputs.
+- **Glorot (Xavier) Initialization:** For Activation=None, Tanh, Logistic, Softmax.
+  $$ s = \sqrt{\frac{1}{\text{fan}_{\text{avg}}}} $$
+- **He Initialization:** Used specifically for ReLU and variants.
+  $$ s = \sqrt{\frac{2}{\text{fan}_{\text{in}}}} $$
+
+```python
+# Applying He Initialization
+keras.layers.Dense(10, activation="relu", kernel_initializer="he_normal")
+```
 
 ### Related Links
 [[Activation functions]] - [[Regression MLP]] - [[AutoDIFF]] - [[Fine tuning hyperparameters in NN]] - [[Zooming in hyper-params tuning]] - [[Building Models using functional API]] - [[Models with functional API]] - [[MODEL WITH SEQUENTIAL]] - [[Wide and Deep NEAURAL NETWORKS]] - [[Population Based Training of Neural Networks (DeepMind, 2017)]] - [[Tensorflow]] - [[Pytorch]]

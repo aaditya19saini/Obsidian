@@ -22,6 +22,25 @@ Let’s go through each line of this code: •
 
 [[Models with functional API]]
 
+## Geron Deep Dive: Code & Advanced Math
+The Functional API allows building non-linear architectures, such as models with multiple inputs, multiple outputs, or **skip connections** (where output from one layer skips adjacent forward layers—vital for Deep ResNets).
+
+### Implementation (Complex Topology)
+```python
+from tensorflow import keras
+
+input_A = keras.layers.Input(shape=[5], name="wide_input")
+input_B = keras.layers.Input(shape=[6], name="deep_input")
+
+hidden1 = keras.layers.Dense(30, activation="relu")(input_B)
+hidden2 = keras.layers.Dense(30, activation="relu")(hidden1)
+
+concat = keras.layers.concatenate([input_A, hidden2])
+output = keras.layers.Dense(1, name="main_output")(concat)
+aux_output = keras.layers.Dense(1, name="aux_output")(hidden2) # Regularization auxiliary output
+
+model = keras.models.Model(inputs=[input_A, input_B], outputs=[output, aux_output])
+```
 
 ### Related Links
 [[Activation functions]] - [[Regression MLP]] - [[AutoDIFF]] - [[Vanishing and Exploding Gradients]] - [[Fine tuning hyperparameters in NN]] - [[Zooming in hyper-params tuning]] - [[Models with functional API]] - [[MODEL WITH SEQUENTIAL]] - [[Wide and Deep NEAURAL NETWORKS]] - [[Population Based Training of Neural Networks (DeepMind, 2017)]] - [[Tensorflow]] - [[Pytorch]]

@@ -56,5 +56,24 @@ This can be implemented by:
 
 Alternatively, you can implement stopping criteria directly using the `warm_start=True` setting, allowing the model to continue training incrementally and stopping when the validation error does not improve for a set number of iterations.
 
+## Geron Deep Dive: Code & Advanced Math
+Early stopping halts training as soon as the **validation error reaches a minimum**, preventing catastrophic overfitting.
+
+### Keras Implementation (Callbacks)
+```python
+from tensorflow import keras
+
+# The 'restore_best_weights=True' parameter automatically rolls back to the
+# model weights at the absolute lowest validation loss point.
+early_stopping_cb = keras.callbacks.EarlyStopping(patience=10, restore_best_weights=True)
+
+# You can pass multiple callbacks (like checkpoints)
+checkpoint_cb = keras.callbacks.ModelCheckpoint("my_keras_model.h5", save_best_only=True)
+
+# history = model.fit(X_train, y_train, epochs=100, 
+#                     validation_data=(X_valid, y_valid),
+#                     callbacks=[checkpoint_cb, early_stopping_cb])
+```
+
 ### Related Links
 [[Bias-Variance Tradeoff]] - [[Generalization]] - [[Cross Validation]] - [[Holdout Validation]] - [[GRID SEARCH]] - [[Root Mean Squared Error (RMSE)]] - [[Feature Scaling]] - [[Min-max scaling]] - [[pseduinverse of matrix]] - [[Computational Complexity]] - [[Base estimators and transformer Mixin]] - [[TF-IDF]]
