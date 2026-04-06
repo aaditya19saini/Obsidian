@@ -2,5 +2,8 @@
   "highlightr-plugin",
   "obsidian-git",
   "obsidian-annotator",
-  "colored-text"
+  "colored-text",
+  "pdf-plus",
+  "omnisearch",
+  "obsidian-extract-pdf-highlights"
 ]
