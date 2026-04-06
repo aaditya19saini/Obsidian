@@ -23,3 +23,6 @@
 **Concise Answer:** **PCA** (Principal Component Analysis) is a dimensionality reduction technique that uses **projection** to reduce the feature space while preserving the maximum amount of **variance**. It relies on **Singular Value Decomposition (SVD)** to identify the **Principal Components** (orthogonal axes) of the data. It is useful for **data compression**, visualisation, and speeding up training. Variants include **Randomized PCA** for speed, **Incremental PCA** for large datasets (mini-batches), and **Kernel PCA** for nonlinear projections.
 
 [[Selecting Kernel and Tuning hyperparams ]]
+
+### Related Links
+[[Kernel PCA (kPCA)]] - [[Singular Value Decomposition (SVD)]] - [[Manifold learning]]

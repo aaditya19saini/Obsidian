@@ -29,3 +29,6 @@ PCA is a dimensionality reduction technique that identifies a hyperplane that li
 - **Scikit-Learn Implementation:** Scikit-Learn's `PCA` class implements PCA using SVD decomposition.
 
 In essence, SVD is a foundational mathematical tool that provides robust and efficient methods for tasks like finding optimal parameters in Linear Regression and performing dimensionality reduction with PCA.
+
+### Related Links
+[[PCA]] - [[Kernel PCA (kPCA)]] - [[Manifold learning]]

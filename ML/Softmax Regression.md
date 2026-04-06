@@ -23,3 +23,6 @@ Here's how Softmax Regression works:
     - Scikit-Learn's `LogisticRegression` class can be used for Softmax Regression. By default, when training on more than two classes, it employs a **one-versus-all (OvA)** strategy, training multiple binary classifiers.
     - However, you can explicitly enable Softmax Regression by setting the `multi_class` hyperparameter to `"multinomial"`. You also need to specify a solver that supports multinomial logistic regression, such as `"lbfgs"`.
     - The `LogisticRegression` class also applies **ℓ2 regularization** by default, with its strength controlled by the hyperparameter `C` (where a higher `C` value means less regularization).
+
+### Related Links
+[[Linear Regression]] - [[Logistic Regression]] - [[Logistic Regression 1]] - [[Polynomial regression]] - [[Ridge Regression]] - [[Lasso Regression]] - [[Elastic Net]] - [[softmax regression 1]]

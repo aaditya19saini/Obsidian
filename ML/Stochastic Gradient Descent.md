@@ -22,3 +22,7 @@ tags: [[Linear Regression]], [[Gradient descent]]
 - if learning rate is reduced to slow--> End up with a suboptimal solution( jumping around the minimum), if training is halted too early?
 
 
+
+
+### Related Links
+[[Gradient descent]] - [[Batch Gradient Descent]] - [[Mini-batch Gradient Descent]] - [[Optimization algorithms]] - [[cost function]] - [[Learning Rate]] - [[Sensitivity to learning rate--- Gradient Descent]] - [[Issues during Gradient descent]] - [[Slow Convergence]] - [[Convergence Rate]] - [[GRADIENT VECTOR]] - [[normal equation]] - [[size of the downhill step]]

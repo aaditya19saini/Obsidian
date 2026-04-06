@@ -34,3 +34,6 @@ If the base estimator used within the bagging ensemble supports the `predict_pro
 ### OOB Context and Bagging Preference
 
 Bagging is often preferred over pasting (sampling without replacement) because **bootstrapping introduces more diversity** in the subsets used for training each predictor. While this results in slightly higher bias, the greater diversity leads to less correlated predictors, which ultimately results in a **lower overall variance** for the ensemble. The ability to perform convenient internal cross-validation through OOB evaluation adds another practical benefit to choosing bagging.
+
+### Related Links
+[[Ensemble Learning]] - [[Decision Trees]] - [[Random Forests]] - [[Bagging and Pasting]]

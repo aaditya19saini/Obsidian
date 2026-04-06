@@ -41,3 +41,6 @@ The Moore-Penrose inverse is particularly useful in several areas of mathematics
     
 
 In essence, the Moore-Penrose inverse provides a powerful tool for handling mathematical problems where the traditional inverse of a matrix doesn't exist, allowing for meaningful solutions in a wider range of scenarios.
+
+### Related Links
+[[Bias-Variance Tradeoff]] - [[Generalization]] - [[Cross Validation]] - [[Holdout Validation]] - [[GRID SEARCH]] - [[Early stopping]] - [[Root Mean Squared Error (RMSE)]] - [[Feature Scaling]] - [[Min-max scaling]] - [[Computational Complexity]] - [[Base estimators and transformer Mixin]] - [[TF-IDF]]

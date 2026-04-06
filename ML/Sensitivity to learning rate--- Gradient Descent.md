@@ -15,3 +15,7 @@ Here is how the learning rate directly impacts Gradient Descent:
 - **Learning Rate Scheduling:** Instead of forcing a single constant rate, you can systematically reduce it over time (using power, exponential, or performance scheduling),. This allows the algorithm to take large steps initially to escape local minima, and small steps later to settle exactly at the global minimum.
 
 - **Adaptive Optimizers:** Algorithms like **RMSProp**, **AdaGrad**, and **Adam** automatically adapt the learning rate for steep versus gentle dimensions during training,. This drastically reduces the need to manually tune the learning rate hyperparameter,.
+
+
+### Related Links
+[[Gradient descent]] - [[Batch Gradient Descent]] - [[Stochastic Gradient Descent]] - [[Mini-batch Gradient Descent]] - [[Optimization algorithms]] - [[cost function]] - [[Learning Rate]] - [[Issues during Gradient descent]] - [[Slow Convergence]] - [[Convergence Rate]] - [[GRADIENT VECTOR]] - [[normal equation]] - [[size of the downhill step]]

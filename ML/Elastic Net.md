@@ -63,3 +63,6 @@ A short example of using Elastic Net in Scikit-Learn involves setting the overal
 >>> elastic_net = ElasticNet(alpha=0.1, l1_ratio=0.5)
 >>> elastic_net.fit(X, y)
 ```
+
+### Related Links
+[[Linear Regression]] - [[Logistic Regression]] - [[Logistic Regression 1]] - [[Polynomial regression]] - [[Ridge Regression]] - [[Lasso Regression]] - [[Softmax Regression]] - [[softmax regression 1]]

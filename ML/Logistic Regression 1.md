@@ -55,3 +55,6 @@ The regularization strength in the Scikit-Learn `LogisticRegression` class is co
 ### Related Concepts
 
 **Softmax Regression:** Logistic Regression can be extended directly to handle tasks involving **multiple exclusive classes** (three or more) without resorting to training and combining multiple binary classifiers (like OvA or OvO strategies). This generalization is known as **Softmax Regression** (or Multinomial Logistic Regression). Softmax Regression computes scores for each class and then estimates the probability of each class using the softmax function.
+
+### Related Links
+[[Linear Regression]] - [[Logistic Regression]] - [[Polynomial regression]] - [[Ridge Regression]] - [[Lasso Regression]] - [[Elastic Net]] - [[Softmax Regression]] - [[softmax regression 1]]

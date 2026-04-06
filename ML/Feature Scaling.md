@@ -13,3 +13,6 @@ There are two common methods for feature scaling:
 
 - standardization:
 1. first subtracts the mean value from each data point, resulting in standardized values that always have a zero mean
+
+### Related Links
+[[Bias-Variance Tradeoff]] - [[Generalization]] - [[Cross Validation]] - [[Holdout Validation]] - [[GRID SEARCH]] - [[Early stopping]] - [[Root Mean Squared Error (RMSE)]] - [[Min-max scaling]] - [[pseduinverse of matrix]] - [[Computational Complexity]] - [[Base estimators and transformer Mixin]] - [[TF-IDF]]

@@ -28,3 +28,7 @@ Because the backpropagation algorithm works by going from the output layer to th
 **3. Batch Normalization (BN)** Proposed in 2015, this technique adds an operation just before or after the activation function of each hidden layer. It zero-centers and normalizes each input, then scales and shifts the result using two new parameter vectors per layer. This technique strongly reduces the vanishing/exploding gradients problem, allowing you to use saturating activation functions (like the logistic function) and much larger learning rates.
 
 **4. Gradient Clipping** To specifically lessen the **exploding** gradients problem, you can simply clip the gradients during backpropagation so that they never exceed a certain threshold. This technique is most commonly used in recurrent neural networks, where Batch Normalization is trickier to implement.
+
+
+### Related Links
+[[Activation functions]] - [[Regression MLP]] - [[AutoDIFF]] - [[Fine tuning hyperparameters in NN]] - [[Zooming in hyper-params tuning]] - [[Building Models using functional API]] - [[Models with functional API]] - [[MODEL WITH SEQUENTIAL]] - [[Wide and Deep NEAURAL NETWORKS]] - [[Population Based Training of Neural Networks (DeepMind, 2017)]] - [[Tensorflow]] - [[Pytorch]]

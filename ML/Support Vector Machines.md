@@ -62,3 +62,6 @@ For regression, the objective is reversed: instead of maximizing the margin whil
 - **Computational Scalability:**
     - The `LinearSVC` class is highly efficient for linear SVMs, scaling almost linearly with the number of instances ($m$) and features ($n$): roughly $O(m \times n)$.
     - The `SVC` class, which supports the kernel trick, scales poorly with the number of training instances, with a training time complexity typically between $O(m^2 \times n)$ and $O(m^3 \times n)$. This makes `SVC` dreadfully slow for large datasets (hundreds of thousands of instances).
+
+### Related Links
+[[Dual problem]] - [[Polynomial Kernel]] - [[Selecting Kernel and Tuning hyperparams]] - [[Kernel PCA (kPCA)]]

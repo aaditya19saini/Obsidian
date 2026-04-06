@@ -39,3 +39,6 @@ More generally, both RMSE and MAE are ways to measure the distance between the v
 - **Manhattan Norm ($\ell_1$ norm):** Computing the sum of absolutes (MAE) corresponds to the $\ell_1$ norm, noted $| \cdot |_1$.
 - **General $\ell_k$ norm:** The $\ell_k$ norm of a vector $\mathbf{v}$ with $n$ elements is generally defined as $| \mathbf{v} |_k = \left( \sum_{j=0}^{n} |v_j|^k \right)^{\frac{1}{k}}$. The higher the norm index $k$, the more the measure focuses on large values and neglects small ones.
 links: [[Linear Regression]]
+
+### Related Links
+[[Bias-Variance Tradeoff]] - [[Generalization]] - [[Cross Validation]] - [[Holdout Validation]] - [[GRID SEARCH]] - [[Early stopping]] - [[Feature Scaling]] - [[Min-max scaling]] - [[pseduinverse of matrix]] - [[Computational Complexity]] - [[Base estimators and transformer Mixin]] - [[TF-IDF]]

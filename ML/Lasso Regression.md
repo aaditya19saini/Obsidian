@@ -83,3 +83,6 @@ In Scikit-Learn, Lasso Regression can be implemented using:
 
 - The `Lasso` class.
 - The `SGDRegressor` class by setting the `penalty` hyperparameter to `"l1"`.
+
+### Related Links
+[[Linear Regression]] - [[Logistic Regression]] - [[Logistic Regression 1]] - [[Polynomial regression]] - [[Ridge Regression]] - [[Elastic Net]] - [[Softmax Regression]] - [[softmax regression 1]]

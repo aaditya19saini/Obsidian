@@ -9,3 +9,6 @@ Polynomial Regression is a technique that enables a linear model to fit **nonlin
 - While a simple linear model assumes a straight-line relationship, Polynomial Regression allows the model to capture more complex, curvilinear relationships within the data.
 
 links: [[Linear Regression]]
+
+### Related Links
+[[Linear Regression]] - [[Logistic Regression]] - [[Logistic Regression 1]] - [[Ridge Regression]] - [[Lasso Regression]] - [[Elastic Net]] - [[Softmax Regression]] - [[softmax regression 1]]

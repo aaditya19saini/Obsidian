@@ -4,109 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "008a40c6662d9e1a",
+        "id": "088d3d67c2e7cea3",
         "type": "tabs",
         "children": [
           {
-            "id": "965e512c10840f3a",
+            "id": "4234ac9c335193fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Activation functions.md",
+                "file": "AutoDIFF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activation functions"
+              "title": "AutoDIFF"
             }
           },
           {
-            "id": "9825f68cfde772a8",
+            "id": "561c28613ee72a1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/DEEP/MODEL WITH SEQUENTIAL.md",
+                "file": "Tensorflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MODEL WITH SEQUENTIAL"
+              "title": "Tensorflow"
             }
           },
           {
-            "id": "9cbc1bd52db92c9f",
+            "id": "d4b5aa30d5bf6a5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wide and Deep NEAURAL NETWORKS.md",
+                "file": "Optimization algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wide and Deep NEAURAL NETWORKS"
+              "title": "Optimization algorithms"
             }
           },
           {
-            "id": "29145430465ed519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Building Models using functional API.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Building Models using functional API"
-            }
-          },
-          {
-            "id": "17a728a2c87b1a39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fine tuning hyperparameters in NN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fine tuning hyperparameters in NN"
-            }
-          },
-          {
-            "id": "6966d298e828ddd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zooming in hyper-params tuning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zooming in hyper-params tuning"
-            }
-          },
-          {
-            "id": "e957b71ec7d5f1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Population Based Training of Neural Networks (DeepMind, 2017).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Population Based Training of Neural Networks (DeepMind, 2017)"
-            }
-          },
-          {
-            "id": "7516eb8c184d3d65",
+            "id": "27d48bfcd83453dd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -116,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,48 +219,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7516eb8c184d3d65",
+  "active": "27d48bfcd83453dd",
   "lastOpenFiles": [
+    "ML/Stochastic Gradient Descent.md",
+    "ML/Bias-Variance Tradeoff.md",
+    "AutoDIFF.md",
+    "Tensorflow.md",
+    "Optimization algorithms.md",
+    "Pasted image 20260406163221.png",
+    "ML/Activation functions.md",
+    "ML/DEEP/MODEL WITH SEQUENTIAL.md",
+    "Wide and Deep NEAURAL NETWORKS.md",
     "Building Models using functional API.md",
+    "Fine tuning hyperparameters in NN.md",
+    "Zooming in hyper-params tuning.md",
+    "capstone.md",
+    "Population Based Training of Neural Networks (DeepMind, 2017).md",
+    "capstone1.md",
+    "Downstream Processing.md",
     "ML/DEEP/Models with functional API.md",
     "ML/Manifold learning.md",
     "ML/Dual problem.md",
-    "Wide and Deep NEAURAL NETWORKS.md",
     "Pytorch.md",
-    "Population Based Training of Neural Networks (DeepMind, 2017).md",
-    "Zooming in hyper-params tuning.md",
-    "Fine tuning hyperparameters in NN.md",
     "Copilot_20260329_155235.png",
     "Pasted image 20260328194858.png",
     "27 March.md",
-    "ML/DEEP/MODEL WITH SEQUENTIAL.md",
     "Untitled.md",
-    "ML/Activation functions.md",
     "ML/Gradient descent.md",
     "ML/Early stopping.md",
     "ML/PCA.md",
     "ML/TF-IDF.md",
     "SEM/Metabolism of Drugs.md",
-    "Projects/README.md",
     "ML/DEEP",
-    "resume.md",
     "Untitled.base",
     "Projects/Pasted image 20260322165822.png",
-    "Projects/Monocular depth estimation.md",
     "Pasted image 20260322165801.png",
-    "Projects/snapnutrition_project_notes.md",
-    "Projects/project- stock price prediction model.md",
-    "Project Ideas.md",
     "Untitled 1.base",
-    "Projects/Prompts.md",
-    "SEM/Food processing.md",
     "Pasted image 20260320110312.png",
     "Pasted image 20260320110145.png",
     "Pasted image 20260319233448.png",
     "Pasted image 20260319232442.png",
     "Pasted image 20260319230906.png",
     "SEM",
-    "SEM/Pasted image 20260312202053.png",
     "Excalidraw",
     "Personal/Pharmaceutical technology",
     "Personal/New note.pdf",

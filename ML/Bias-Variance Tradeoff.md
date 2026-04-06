@@ -25,3 +25,6 @@ The ***goal*** is to select a model that is:
 1. Complex enough to capture the underlying patterns (resulting in low bias).
 
 2. Simple enough not to be overly sensitive to the noise in the training data (resulting in low variance).
+
+### Related Links
+[[Generalization]] - [[Cross Validation]] - [[Holdout Validation]] - [[GRID SEARCH]] - [[Early stopping]] - [[Root Mean Squared Error (RMSE)]] - [[Feature Scaling]] - [[Min-max scaling]] - [[pseduinverse of matrix]] - [[Computational Complexity]] - [[Base estimators and transformer Mixin]] - [[TF-IDF]]

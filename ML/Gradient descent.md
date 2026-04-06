@@ -70,3 +70,7 @@ TYPES OF GRADIENT DESCENT:
 3. [[Mini-batch Gradient Descent]]
 
 ![[Pasted image 20250826152021.png]]
+
+
+### Related Links
+[[Batch Gradient Descent]] - [[Stochastic Gradient Descent]] - [[Mini-batch Gradient Descent]] - [[Optimization algorithms]] - [[cost function]] - [[Learning Rate]] - [[Sensitivity to learning rate--- Gradient Descent]] - [[Issues during Gradient descent]] - [[Slow Convergence]] - [[Convergence Rate]] - [[GRADIENT VECTOR]] - [[normal equation]] - [[size of the downhill step]]

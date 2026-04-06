@@ -14,3 +14,7 @@ Primary causes of slow convergence and the techniques used to speed it up:
     - _Solution:_ Using **Batch Normalization** strongly reduces this problem and allows you to use much larger learning rates, significantly speeding up the learning process. Switching to non-saturating activation functions (like **ReLU** or **ELU**) and using proper weight initialization (like **He initialization**) also heavily accelerate deep network convergence.
 
 ---
+
+
+### Related Links
+[[Gradient descent]] - [[Batch Gradient Descent]] - [[Stochastic Gradient Descent]] - [[Mini-batch Gradient Descent]] - [[Optimization algorithms]] - [[cost function]] - [[Learning Rate]] - [[Sensitivity to learning rate--- Gradient Descent]] - [[Issues during Gradient descent]] - [[Convergence Rate]] - [[GRADIENT VECTOR]] - [[normal equation]] - [[size of the downhill step]]

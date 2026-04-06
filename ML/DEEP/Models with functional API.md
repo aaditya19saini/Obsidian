@@ -24,3 +24,6 @@ Here is the step-by-step process of how to use the Functional API to create a mo
 
 
 [[MODEL WITH SEQUENTIAL]]
+
+### Related Links
+[[Activation functions]] - [[Regression MLP]] - [[AutoDIFF]] - [[Vanishing and Exploding Gradients]] - [[Fine tuning hyperparameters in NN]] - [[Zooming in hyper-params tuning]] - [[Building Models using functional API]] - [[MODEL WITH SEQUENTIAL]] - [[Wide and Deep NEAURAL NETWORKS]] - [[Population Based Training of Neural Networks (DeepMind, 2017)]] - [[Tensorflow]] - [[Pytorch]]

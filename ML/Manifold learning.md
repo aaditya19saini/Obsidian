@@ -16,3 +16,6 @@ Manifold learning is often accompanied by an implicit assumption: that the machi
 - **Caveat:** This assumption does not always hold. In some cases, a decision boundary might be a simple plane in 3D space (cutting through the Swiss roll) but become a complex collection of disjoint segments when the manifold is unrolled into 2D
 ![[Pasted image 20260120215516.png]]figure:
 For example, in the bottom row of Figure 8-6, the decision boundary is located at x1 = 5. This decision boundary looks very simple in the original 3D space (a vertical plane), but it looks more complex in the unrolled manifold (a collection of four independent line segments).
+
+### Related Links
+[[PCA]] - [[Kernel PCA (kPCA)]] - [[Singular Value Decomposition (SVD)]]

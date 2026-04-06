@@ -33,3 +33,6 @@ The function used to measure this objective is the **cross entropy** cost functi
 While Scikit-Learn's `LogisticRegression` class is primarily a binary classifier, it can be configured to use Softmax Regression when trained on more than two classes.
 
 To enable Softmax Regression in Scikit-Learn, you must set the `multi_class` hyperparameter to **"multinomial"**. You must also choose a solver that supports Softmax Regression, such as the **"lbfgs"** solver. By default, the `LogisticRegression` class also applies $\ell_2$ regularization, which is controlled by the hyperparameter **C**.
+
+### Related Links
+[[Linear Regression]] - [[Logistic Regression]] - [[Logistic Regression 1]] - [[Polynomial regression]] - [[Ridge Regression]] - [[Lasso Regression]] - [[Elastic Net]] - [[Softmax Regression]]

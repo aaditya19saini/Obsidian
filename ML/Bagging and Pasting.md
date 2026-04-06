@@ -79,3 +79,6 @@ Imagine you are trying to guess the location of a sunken treasure (the ideal mod
 - **Training a single model** is like sending one expert diver down to search the seabed. They might be very skilled, but they only cover one specific area, and if they miss the spot, you're out of luck (high variance, prone to error).
 - **Bagging** is like sending ten different teams of divers, but because some divers are on multiple teams, the overall search effort is robust to individual bad decisions and biases. Each team focuses on a slightly different, randomized version of the map (sampling with replacement/bootstrapping). Even if one team misinterprets its map or has a bad day, averaging the search locations from all ten teams leads to a much more reliable final location (lower variance).
 - **Pasting** is similar, but each diver is assigned exclusively to one team (sampling without replacement). This guarantees broader coverage but provides slightly less diversity across the teams' efforts.
+
+### Related Links
+[[Ensemble Learning]] - [[Decision Trees]] - [[Random Forests]] - [[Out of bag Evaluation]]

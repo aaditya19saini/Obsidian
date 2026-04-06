@@ -55,3 +55,6 @@ The $\gamma$ hyperparameter in the RBF kernel acts as a **regularization hyperpa
 
 - **Increasing $\gamma$:** Makes the bell-shaped curve narrower, reducing each instance’s range of influence. This leads to a decision boundary that is **more irregular** (which may cause overfitting).
 - **Decreasing $\gamma$:** Makes the bell-shaped curve wider, giving instances a larger range of influence. This results in a **smoother decision boundary** (which may cause underfitting).
+
+### Related Links
+[[Support Vector Machines]] - [[Dual problem]] - [[Selecting Kernel and Tuning hyperparams]] - [[Kernel PCA (kPCA)]]

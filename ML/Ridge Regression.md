@@ -16,3 +16,6 @@
 - **Scaling Requirement:** Ridge Regression is sensitive to the scale of the input features, so it is **important to scale the data** (e.g., using `StandardScaler`) before training.
 - **Evaluation:** The regularization term is only added to the cost function **during training**. Once the model is trained, its performance should be evaluated using the **unregularized performance measure** (like RMSE or MSE).
 - **Implementation:** Ridge Regression can be solved either using a **closed-form equation** or through **Gradient Descent**. When using the `SGDRegressor` class in Scikit-Learn, specifying `penalty="l2"` applies Ridge Regression regularization.
+
+### Related Links
+[[Linear Regression]] - [[Logistic Regression]] - [[Logistic Regression 1]] - [[Polynomial regression]] - [[Lasso Regression]] - [[Elastic Net]] - [[Softmax Regression]] - [[softmax regression 1]]

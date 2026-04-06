@@ -43,3 +43,6 @@ Here’s a clear summary of the main points from the paper **“Wide & Deep Lear
 - Open-sourced in TensorFlow for broader use.
 
 Would you like me to also create a **visual workflow diagram** of the Wide & Deep pipeline (data generation → training → serving) to make the architecture easier to grasp for revision?
+
+### Related Links
+[[Activation functions]] - [[Regression MLP]] - [[AutoDIFF]] - [[Vanishing and Exploding Gradients]] - [[Fine tuning hyperparameters in NN]] - [[Zooming in hyper-params tuning]] - [[Building Models using functional API]] - [[Models with functional API]] - [[MODEL WITH SEQUENTIAL]] - [[Population Based Training of Neural Networks (DeepMind, 2017)]] - [[Tensorflow]] - [[Pytorch]]

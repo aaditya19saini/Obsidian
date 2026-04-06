@@ -30,3 +30,6 @@ Because boosting trains predictors sequentially, it cannot be parallelised and d
 ### Stacking
 
 **Stacking** (Stacked Generalization) is based on the idea that instead of using a trivial function (like hard voting) to aggregate predictions, one should **train a model** to perform this aggregation. The final predictor, called a **blender** or meta-learner, takes the predictions of the other predictors as inputs and makes the final prediction.
+
+### Related Links
+[[Decision Trees]] - [[Random Forests]] - [[Bagging and Pasting]] - [[Out of bag Evaluation]]

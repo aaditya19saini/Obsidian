@@ -69,3 +69,6 @@ Cross-validation is primarily used during the **model selection** phase of a pro
 - **Comparing Models:** It is the standard way to compare different model types (e.g., Linear Regression vs. Decision Tree) to determine which is overfitting or underfitting.
 - **Soft Voting Ensembles:** The `predict_proba()` method for soft voting requires classifiers to estimate class probabilities, often requiring them to use cross-validation internally.
 - **Cross-Validation Prediction (`cross_val_predict`):** This function performs K-fold cross-validation but returns the **predictions made on each test fold** instead of the evaluation scores. This results in a "clean prediction" for every instance in the training set (meaning the prediction was made by a model that never trained on that instance), which is useful for generating a Confusion Matrix or inspecting decision scores.
+
+### Related Links
+[[Bias-Variance Tradeoff]] - [[Generalization]] - [[Holdout Validation]] - [[GRID SEARCH]] - [[Early stopping]] - [[Root Mean Squared Error (RMSE)]] - [[Feature Scaling]] - [[Min-max scaling]] - [[pseduinverse of matrix]] - [[Computational Complexity]] - [[Base estimators and transformer Mixin]] - [[TF-IDF]]

@@ -17,3 +17,7 @@ Here’s the idea in that section of the book:
 So “zooming” is not about image magnification—it’s about **progressively focusing your search space** for hyperparameters until you converge on optimal values.
 
 ![[Copilot_20260329_155235.png]]
+
+
+### Related Links
+[[Activation functions]] - [[Regression MLP]] - [[AutoDIFF]] - [[Vanishing and Exploding Gradients]] - [[Fine tuning hyperparameters in NN]] - [[Building Models using functional API]] - [[Models with functional API]] - [[MODEL WITH SEQUENTIAL]] - [[Wide and Deep NEAURAL NETWORKS]] - [[Population Based Training of Neural Networks (DeepMind, 2017)]] - [[Tensorflow]] - [[Pytorch]]

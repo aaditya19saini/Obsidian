@@ -39,3 +39,6 @@ In the case of a kernelized SVM, making predictions for a new instance ($\mathbf
 |Polynomial|$(\gamma \mathbf{a}^T \mathbf{b} + r)^d$|
 |Gaussian RBF|$\exp(-\gamma\|
 |Sigmoid|$\tanh(\gamma \mathbf{a}^T \mathbf{b} + r)$|
+
+### Related Links
+[[Support Vector Machines]] - [[Polynomial Kernel]] - [[Selecting Kernel and Tuning hyperparams]] - [[Kernel PCA (kPCA)]]

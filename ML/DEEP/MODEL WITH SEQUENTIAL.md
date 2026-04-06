@@ -22,3 +22,6 @@ The Keras Sequential API is used to build neural networks that are composed of a
 **4. Evaluating the Model** Once you are satisfied with the model's performance during validation, you evaluate it on a completely unseen test set to estimate the generalization error. This is done by calling `model.evaluate()`, passing in the test data and labels.
 
 **5. Making Predictions** Finally, you can use the trained model to make predictions on new, unseen instances by calling the `model.predict()` method. For classification tasks, this outputs the estimated probabilities for each class; alternatively, you can use `model.predict_classes()` to directly output the class index with the highest probability.
+
+### Related Links
+[[Activation functions]] - [[Regression MLP]] - [[AutoDIFF]] - [[Vanishing and Exploding Gradients]] - [[Fine tuning hyperparameters in NN]] - [[Zooming in hyper-params tuning]] - [[Building Models using functional API]] - [[Models with functional API]] - [[Wide and Deep NEAURAL NETWORKS]] - [[Population Based Training of Neural Networks (DeepMind, 2017)]] - [[Tensorflow]] - [[Pytorch]]

@@ -55,3 +55,6 @@ This can be implemented by:
 3. Measuring the validation error at each stage to find the optimal number of trees.
 
 Alternatively, you can implement stopping criteria directly using the `warm_start=True` setting, allowing the model to continue training incrementally and stopping when the validation error does not improve for a set number of iterations.
+
+### Related Links
+[[Bias-Variance Tradeoff]] - [[Generalization]] - [[Cross Validation]] - [[Holdout Validation]] - [[GRID SEARCH]] - [[Root Mean Squared Error (RMSE)]] - [[Feature Scaling]] - [[Min-max scaling]] - [[pseduinverse of matrix]] - [[Computational Complexity]] - [[Base estimators and transformer Mixin]] - [[TF-IDF]]

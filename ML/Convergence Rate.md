@@ -22,3 +22,6 @@
 - If you want the algorithm **10× more accurate**, it’ll be **10× slower**.
     
 - Gradient Descent isn’t fast near the end — it crawls.
+
+### Related Links
+[[Gradient descent]] - [[Batch Gradient Descent]] - [[Stochastic Gradient Descent]] - [[Mini-batch Gradient Descent]] - [[Optimization algorithms]] - [[cost function]] - [[Learning Rate]] - [[Sensitivity to learning rate--- Gradient Descent]] - [[Issues during Gradient descent]] - [[Slow Convergence]] - [[GRADIENT VECTOR]] - [[normal equation]] - [[size of the downhill step]]
