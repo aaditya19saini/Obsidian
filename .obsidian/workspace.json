@@ -53,10 +53,14 @@
             "id": "27d48bfcd83453dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "ML/Linear Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Regression"
             }
           }
         ],
@@ -221,6 +225,9 @@
   },
   "active": "27d48bfcd83453dd",
   "lastOpenFiles": [
+    "Aurélien-Géron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O’Reilly-Media-2019.pdf",
+    "ML/TF-IDF.md",
+    "small_files.txt",
     "ML/Stochastic Gradient Descent.md",
     "ML/Bias-Variance Tradeoff.md",
     "AutoDIFF.md",
@@ -248,8 +255,6 @@
     "ML/Gradient descent.md",
     "ML/Early stopping.md",
     "ML/PCA.md",
-    "ML/TF-IDF.md",
-    "SEM/Metabolism of Drugs.md",
     "ML/DEEP",
     "Untitled.base",
     "Projects/Pasted image 20260322165822.png",
@@ -267,7 +272,6 @@
     "Personal",
     "Database file.base",
     "Untitled.canvas",
-    "Projects",
     "Untitled 1.canvas"
   ]
 }
