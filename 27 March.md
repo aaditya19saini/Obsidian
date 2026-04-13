@@ -1,1 +1,0 @@
-One thing i learnt today is that jupyter notebooks are great for experimental bs but you really need to build the model which gives you a straighforward answer 

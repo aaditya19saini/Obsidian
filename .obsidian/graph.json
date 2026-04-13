@@ -15,10 +15,24 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"Computer Vision\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16762880
+      }
+    },
+    {
+      "query": "path:ML/DEEP  ",
+      "color": {
+        "a": 1,
+        "rgb": 19711
+      }
+    },
+    {
+      "query": "path:Projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 10.5821205821206,
   "linkStrength": 0.533264033264033,
   "linkDistance": 277,
-  "scale": 0.4168231163624608,
+  "scale": 0.6144200322177411,
   "close": true
 }

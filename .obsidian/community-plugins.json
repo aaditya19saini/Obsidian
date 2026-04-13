@@ -1,9 +1,5 @@
 [
   "highlightr-plugin",
   "obsidian-git",
-  "obsidian-annotator",
-  "colored-text",
-  "pdf-plus",
-  "omnisearch",
-  "obsidian-extract-pdf-highlights"
+  "colored-text"
 ]
