@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Activation functions.md",
+                "file": "dcf_background_knowledge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activation functions"
+              "title": "dcf_background_knowledge"
             }
           }
         ],
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,6 +211,8 @@
   },
   "active": "05ccaafd8e512567",
   "lastOpenFiles": [
+    "ML/Activation functions.md",
+    "dcf_background_knowledge.md",
     "Computer Vision/Convolution neural networks.md",
     "ML/company to apply for internship.md",
     "Aurélien-Géron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O’Reilly-Media-2019.pdf",
@@ -243,8 +244,6 @@
     "ML/DEEP/Models with functional API.md",
     "geron/Part III - ANNs and Deep Learning.md",
     "geron/Part IV - Specialized Architectures.md",
-    "geron/Part II - Advanced ML Algorithms.md",
-    "geron/Part I - Fundamentals of ML.md",
     "geron",
     "small_files.txt",
     "ML/DEEP",
