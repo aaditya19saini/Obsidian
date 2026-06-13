@@ -120,7 +120,7 @@ $$\text{Terminal Value (TV)} = \frac{\text{FCF}_{\text{last}} \times (1 + g_{\te
 
 * Where:
   * $\text{FCF}_{\text{last}}$ = The free cash flow generated in the final year of the explicit forecast.
-  * $g_{\text{terminal}}$ = The **Terminal Growth Rate** (perpetual growth rate).
+  * $g_{\text{terminal}}$ = The **Terminal Growth Rate** (perpetual growth rate).-----> <span style="color:rgb(0, 176, 240)">GORDON GROWTH RATE </span>
     * *Crucial Rule:* $g_{\text{terminal}}$ **must** <span style="color:rgb(192, 0, 0)">be lower than the long-term growth rate of the global economy</span> (usually set at 2% to 3%, matching inflation). If it were higher, the company would eventually grow larger than the entire earth's economy!
 
 ---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dcf_background_knowledge.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dcf_background_knowledge"
+              "title": "README"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Raise statement"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01eac6bd28841573",
+  "active": "05ccaafd8e512567",
   "lastOpenFiles": [
-    "Decorators.md",
-    "Raise statement.md",
     "dcf_background_knowledge.md",
+    "Raise statement.md",
+    "Decorators.md",
     "risk.md",
     "ML/Activation functions.md",
     "Computer Vision/Convolution neural networks.md",
