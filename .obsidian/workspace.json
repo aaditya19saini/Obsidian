@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "002b7e179dc62273",
+    "type": "split",
+    "children": [
+      {
+        "id": "377d0263d62b98ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc2000fe028c67a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cpp/Hello world.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello world"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b47d4f6cb66dd59e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac04c713290b88a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3bb4250c44955e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f0332e626b5ab80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "relu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ddea1949e3975f13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b32bd60c07d0ebdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9ec3fab84b0f0b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c39b018ce43244e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d93239ad55c3309f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D,Z and F values.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from D,Z and F values"
+            }
+          },
+          {
+            "id": "9a2bef3ca939dc9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5bf074bc5f16f30e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project Ideas.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project Ideas"
+            }
+          },
+          {
+            "id": "2b32181915015322",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "dfc2000fe028c67a",
+  "lastOpenFiles": [
+    "obsidian/vulkan-1.dll",
+    "obsidian/vk_swiftshader_icd.json",
+    "obsidian/vk_swiftshader.dll",
+    "obsidian/v8_context_snapshot.bin",
+    "obsidian/Untitled.md",
+    "obsidian/Untitled.base",
+    "obsidian/Untitled 1.base",
+    "obsidian/Uninstall Obsidian.exe",
+    "obsidian/snapshot_blob.bin",
+    "obsidian/resources.pak",
+    "obsidian/Obsidian.exe",
+    "obsidian/Obsidian.com",
+    "Cpp/Gem.md",
+    "Untitled.md",
+    "Cpp/Hello world.md",
+    "Excalidraw/Drawing 2026-07-09 11.37.21.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-09 11.37.28.excalidraw.md",
+    "Projects/Monocular depth estimation.md",
+    "Projects/NFL Project.md",
+    "Projects/LSTM and lagged features (project).md",
+    "Projects/Project Ideas.md",
+    "dcf model/dcf_background_knowledge.md",
+    "dcf model/risk.md",
+    "dcf model/system design.md",
+    "ML/Raise statement.md",
+    "ML/Pasted image 20260328194858.png",
+    "ML/Pasted image 20260413162835.png",
+    "ML/Pasted image 20260406163221.png",
+    "ML/Decorators.md",
+    "ML/Copilot_20260329_155235.png",
+    "capstone1.md",
+    "ML/Activation functions.md",
+    "Computer Vision/Convolution neural networks.md",
+    "ML/company to apply for internship.md",
+    "ML/AutoDIFF.md",
+    "capstone.md",
+    "27 March.md",
+    "Projects/snapnutrition_project_notes.md",
+    "ML/size of the downhill step.md",
+    "Computer Vision/NON-MAX Suppression.md",
+    "Projects/Pasted image 20260322165822.png",
+    "Pasted image 20260322165801.png",
+    "Pasted image 20260320110312.png",
+    "Pasted image 20260320110145.png",
+    "Pasted image 20260319233448.png",
+    "Pasted image 20260319232442.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

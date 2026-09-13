@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:\"Linear regression\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Computer Vision\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16762880
+      }
+    },
+    {
+      "query": "path:ML/DEEP  ",
+      "color": {
+        "a": 1,
+        "rgb": 19711
+      }
+    },
+    {
+      "query": "path:Projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.18492723492724,
+  "lineSizeMultiplier": 2.52962577962578,
+  "collapse-forces": true,
+  "centerStrength": 0.383575883575884,
+  "repelStrength": 10.5821205821206,
+  "linkStrength": 0.533264033264033,
+  "linkDistance": 277,
+  "scale": 0.8614063772203145,
+  "close": true
+}
