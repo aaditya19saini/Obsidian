@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -10,5 +10,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "showLineNumber": false
+  "showLineNumber": false,
+  "focusNewTab": false,
+  "attachmentFolderPath": "./",
+  "trashOption": "none"
 }
