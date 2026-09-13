@@ -11,14 +11,12 @@
             "id": "dfc2000fe028c67a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cpp/Hello world.md",
-                "mode": "source",
-                "source": false
+                "file": "ML/Copilot_20260329_155235 1.png"
               },
-              "icon": "lucide-file",
-              "title": "Hello world"
+              "icon": "lucide-image",
+              "title": "Copilot_20260329_155235 1"
             }
           }
         ]
@@ -182,8 +180,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dfc2000fe028c67a",
+  "active": "a3bb4250c44955e7",
   "lastOpenFiles": [
+    "ML/Pasted image 20260413162835 1.png",
+    "Cpp/Hello world.md",
     "obsidian/vulkan-1.dll",
     "obsidian/vk_swiftshader_icd.json",
     "obsidian/vk_swiftshader.dll",
@@ -195,10 +195,8 @@
     "obsidian/snapshot_blob.bin",
     "obsidian/resources.pak",
     "obsidian/Obsidian.exe",
-    "obsidian/Obsidian.com",
     "Cpp/Gem.md",
     "Untitled.md",
-    "Cpp/Hello world.md",
     "Excalidraw/Drawing 2026-07-09 11.37.21.excalidraw.md",
     "Excalidraw/Drawing 2026-07-09 11.37.28.excalidraw.md",
     "Projects/Monocular depth estimation.md",
@@ -214,7 +212,7 @@
     "ML/Pasted image 20260406163221.png",
     "ML/Decorators.md",
     "ML/Copilot_20260329_155235.png",
-    "capstone1.md",
+    "Projects/capstone1.md",
     "ML/Activation functions.md",
     "Computer Vision/Convolution neural networks.md",
     "ML/company to apply for internship.md",

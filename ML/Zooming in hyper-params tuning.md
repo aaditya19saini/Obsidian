@@ -16,7 +16,7 @@ Here’s the idea in that section of the book:
 
 So “zooming” is not about image magnification—it’s about **progressively focusing your search space** for hyperparameters until you converge on optimal values.
 
-![[Copilot_20260329_155235.png]]
+![[Copilot_20260329_155235 1.png]]
 
 ## Geron Deep Dive: Code & Advanced Math
 Grid-searching neural networks takes astronomically long because training deep networks is notoriously slow. Keras Tuner simplifies this dramatically using highly optimized algorithmic searches.

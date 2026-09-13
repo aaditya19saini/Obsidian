@@ -1,4 +1,4 @@
-![[Pasted image 20260413162835.png]]
+![[Pasted image 20260413162835 1.png]]
 **Convolutional Neural Networks (CNNs)** are a specialized type of deep learning model that emerged from the study of the brain's visual cortex and have achieved superhuman performance on complex visual tasks. While they are almost universally used in computer vision, they are also highly effective for tasks like voice recognition and natural language processing.
 
 To understand CNNs deeply, it helps to compare them to standard dense neural networks. A regular dense neural network connects every neuron in one layer to every single pixel in an image. For larger images, this approach breaks down because it requires a massive number of parameters (e.g., millions of connections for a single layer), leading to huge computational costs and a high risk of overfitting. CNNs solve this problem using **partially connected layers** and **weight sharing**.

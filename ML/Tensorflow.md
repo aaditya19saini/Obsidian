@@ -1,4 +1,4 @@
-![[Pasted image 20260406163221.png]]
+![[Pasted image 20260406163221 1.png]]
 * tensorflow's python api
 
 

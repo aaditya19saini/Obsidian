@@ -88,7 +88,7 @@ $FCF = EBIT \cdot (1 - \text{Tax Rate}) + D\&A - \Delta NWC - CapEx$
 
 ## 3. Weighted Average Cost of Capital (WACC)
 
-WACC is the **Discount Rate ($r$)** we use in the DCF formula. It measures the total [[risk]] of the business. 
+WACC is the **Discount Rate ($r$)** we use in the DCF formula. It measures the total [[Projects/risk]] of the business. 
 
 Think of WACC as the hurdle rate: the average interest rate a company "pays" to its investors (lenders who gave them loans, and shareholders who bought stock) to justify taking the risk of investing in them.
 

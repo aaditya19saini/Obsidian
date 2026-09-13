@@ -1,4 +1,4 @@
-![[Pasted image 20260328194858.png]]
+![[Pasted image 20260328194858 1.png]]
 
 - It connects all or part of the inputs directly to the output layer, as shown in Figure.
 - This architecture makes it possible for the neural network to learn both deep patterns (using the deep path) and simple rules (through the short path). 
