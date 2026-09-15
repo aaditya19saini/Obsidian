@@ -2,98 +2,43 @@
 
 C++ contains over 40 distinct operators, grouped into several primary categories:
 
-  
+## 1. Arithmetic Operators
+- **Basic:** Addition (`+`), Subtraction (`-`), Multiplication (`*`), Division (`/`), Modulus (`%`)
+- **Unary / Unary-like:** Increment (`++`), Decrement (`--`)
 
-1. Arithmetic Operators
+## 2. Relational / Comparison Operators
+- Equal to (`==`)
+- Not equal to (`!=`)
+- Greater than (`>`)
+- Less than (`<`)
+- Greater than or equal to (`>=`)
+- Less than or equal to (`<=`)
 
-  
+## 3. Logical Operators
+- Logical AND (`&&`)
+- Logical OR (`||`)
+- Logical NOT (`!`)
 
-  • Addition (`+`), Subtraction (`-`), Multiplication (`*`), Division (`/`), Modulus (`%`)
+## 4. Bitwise Operators
+- Bitwise AND (`&`)
+- Bitwise OR (`|`)
+- Bitwise XOR (`^`)
+- Bitwise NOT (`~`)
+- Left shift (`<<`)
+- Right shift (`>>`)
 
-  
+## 5. Assignment Operators
+- Simple assignment (`=`)
+- Compound assignment (`+=`, `-=`, `*=`, `/=`, `%=`, `&=`, `|=`, `^=`, `<<=`, `>>=`)
 
-  • Increment (`++`), Decrement (`--`)
+## 6. Member & Pointer Operators
+- Member access (`.`, `->`)
+- Dereference (`*`), Address-of (`&`)
+- Pointer-to-member (`.*`, `->*`)
 
-  
-
-2. Relational / Comparison Operators
-
-  
-
-  • Equal to (`==`), Not equal to (`!=`), Greater than (`>`), Less than (`<`), Greater than or equal to (`>=`), Less than or equal to (`<=`)
-
-  
-
-3. Logical Operators
-
-  
-
-  • Logical AND (`&&`), Logical OR (`||`), Logical NOT (`!`)
-
-  
-
-4. Bitwise Operators
-
-  
-
-  • AND (`&`), OR (`|`), XOR (`^`), NOT (`~`), Left shift (`<<`), Right shift (`>>`)
-
-  
-
-5. Assignment Operators
-
-  
-
-  • Simple assignment (`=`)
-
-  
-
-  • Compound assignment (`+=`, `-=`, `*=`, `/=`, `%=`, `&=`, `|=`, `^=`, `<<=`, `>>=`)
-
-  
-
-6. Member & Pointer Operators
-
-  
-
-  • Member access (`.`, `->`)
-
-  
-
-  • Dereference (`*`), Address-of (`&`)
-
-  
-
-  • Pointer-to-member (`.*`, `->*`)
-
-  
-
-7. Special / Miscellaneous Operators
-
-  
-
-  • Conditional / Ternary (`? :`)
-
-  
-
-  • Size of object (`sizeof`)
-
-  
-
-  • Type identification (`typeid`)
-
-  
-
-  • Scope resolution (`::`)
-
-  
-
-  • Comma operator (`,`)
-
-  
-
-  • Dynamic memory allocation (`new`, `delete`)
-
-  
-
-  • Type casting (`static_cast`, `dynamic_cast`, `const_cast`, `reinterpret_cast`)
+## 7. Special / Miscellaneous Operators
+- **Conditional / Ternary:** `? :`
+- **Size & Type:** `sizeof`, `typeid`
+- **Scope & Flow:** `::` (Scope resolution), `,` (Comma)
+- **Memory Management:** `new`, `delete`
+- **Type Casting:** `static_cast`, `dynamic_cast`, `const_cast`, `reinterpret_cast`
