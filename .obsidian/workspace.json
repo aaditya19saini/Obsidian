@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpp/Narrowing conversions.md",
+                "file": "Cpp/Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Narrowing conversions"
+              "title": "Operators"
+            }
+          },
+          {
+            "id": "6954e0f7563d95ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cpp/Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vectors"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,12 +239,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ec2a0e12d23c7801",
+  "active": "6954e0f7563d95ef",
   "lastOpenFiles": [
     "Cpp/Operators.md",
-    "Cpp/Initialization.md",
-    "Cpp/Narrowing conversions.md",
+    "Cpp/Vectors.md",
     "Cpp/Untitled 1.md",
+    "Cpp/Narrowing conversions.md",
+    "Cpp/Initialization.md",
     "Cpp/Hello world.md",
     "Cpp/Gem.md",
     "ML/Copilot_20260329_155235 1.png",
@@ -268,7 +283,6 @@
     "ML/AutoDIFF.md",
     "capstone.md",
     "27 March.md",
-    "Projects/snapnutrition_project_notes.md",
     "Projects/Pasted image 20260322165822.png",
     "Pasted image 20260322165801.png",
     "Pasted image 20260320110312.png",
