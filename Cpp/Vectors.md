@@ -1,5 +1,3 @@
-Absolutely. If you're learning C++ and want to get productive fast, **`std::vector` is one of the first things you should become comfortable with**.
-
 Think of a vector as:
 
 > **A dynamic array that can grow and shrink while your program is running.**
