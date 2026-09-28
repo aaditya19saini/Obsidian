@@ -1,4 +1,4 @@
-﻿# Operators
+# Operators
 
 Operators work on values. For example, `+` adds numbers and `==` compares two values.
 

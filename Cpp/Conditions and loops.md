@@ -1,4 +1,4 @@
-﻿# Conditions and loops
+# Conditions and loops
 
 Conditions let a program choose what to do. Loops repeat work.
 

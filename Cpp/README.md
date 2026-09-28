@@ -11,13 +11,15 @@ Use this folder as a revision guide. Read the notes in this order, and try the s
 5. [[Input and output]] — reading from and writing to the console
 6. [[Conditions and loops]] — choosing and repeating actions
 7. [[Functions and scope]] — splitting a program into reusable pieces
-8. [[Strings and collections]] — text, arrays, and vectors
-9. [[Classes and structs]] — grouping related data and behavior
-10. [[Errors and debugging]] — finding and handling problems
-11. [[Multiple source files]] — organizing and connecting program files
-12. [[Build and run]] — compiling and running a program
+8. [[Pointers and references]] — referring to objects and understanding lifetime
+9. [[Strings and collections]] — text, arrays, and vectors
+10. [[Classes and structs]] — grouping related data and behavior
+11. [[File input and output]] — reading and writing files
+12. [[Errors and debugging]] — finding and handling problems
+13. [[Multiple source files]] — organizing and connecting program files
+14. [[Build and run]] — compiling and running a program
 
-[[Vectors]] has extra detail on `std::vector`. [[Narrowing conversions]] explains conversions that can lose information.
+[[Vectors]] has extra examples for `std::vector`. [[Narrowing conversions]] explains conversions that can lose information. [[Integer types and long long]] explains integer ranges.
 
 ## A useful way to practice
 

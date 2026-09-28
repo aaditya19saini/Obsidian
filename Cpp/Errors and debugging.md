@@ -1,4 +1,4 @@
-﻿# Errors and debugging
+# Errors and debugging
 
 Programs can fail in different ways. Identify which kind of problem you have before changing code.
 
