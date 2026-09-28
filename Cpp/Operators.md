@@ -1,44 +1,37 @@
-# C++ Operators Reference
+﻿# Operators
 
-C++ contains over 40 distinct operators, grouped into several primary categories:
+Operators work on values. For example, `+` adds numbers and `==` compares two values.
 
-## 1. Arithmetic Operators
-- **Basic:** Addition (`+`), Subtraction (`-`), Multiplication (`*`), Division (`/`), Modulus (`%`)
-- **Unary / Unary-like:** Increment (`++`), Decrement (`--`)
+## Arithmetic
 
-## 2. Relational / Comparison Operators
-- Equal to (`==`)
-- Not equal to (`!=`)
-- Greater than (`>`)
-- Less than (`<`)
-- Greater than or equal to (`>=`)
-- Less than or equal to (`<=`)
+`+` add, `-` subtract, `*` multiply, `/` divide, `%` remainder for integers, `++` increment, `--` decrement.
 
-## 3. Logical Operators
-- Logical AND (`&&`)
-- Logical OR (`||`)
-- Logical NOT (`!`)
+```cpp
+int a{7};
+int b{2};
+int quotient{a / b}; // 3: integer division discards the fraction
+int remainder{a % b}; // 1
+```
 
-## 4. Bitwise Operators
-- Bitwise AND (`&`)
-- Bitwise OR (`|`)
-- Bitwise XOR (`^`)
-- Bitwise NOT (`~`)
-- Left shift (`<<`)
-- Right shift (`>>`)
+When both operands are integers, `/` performs integer division. Use a floating-point operand when a fractional result is needed.
 
-## 5. Assignment Operators
-- Simple assignment (`=`)
-- Compound assignment (`+=`, `-=`, `*=`, `/=`, `%=`, `&=`, `|=`, `^=`, `<<=`, `>>=`)
+## Compare and combine conditions
 
-## 6. Member & Pointer Operators
-- Member access (`.`, `->`)
-- Dereference (`*`), Address-of (`&`)
-- Pointer-to-member (`.*`, `->*`)
+- `==`, `!=`: equal, not equal
+- `<`, `>`, `<=`, `>=`: less/greater comparisons
+- `&&`, `||`, `!`: logical AND, OR, NOT
 
-## 7. Special / Miscellaneous Operators
-- **Conditional / Ternary:** `? :`
-- **Size & Type:** `sizeof`, `typeid`
-- **Scope & Flow:** `::` (Scope resolution), `,` (Comma)
-- **Memory Management:** `new`, `delete`
-- **Type Casting:** `static_cast`, `dynamic_cast`, `const_cast`, `reinterpret_cast`
+Use `==` to compare values and `=` to assign a value.
+
+## Assign and update
+
+`=`, `+=`, `-=`, `*=`, `/=` assign values. For example, `score += 1;` adds one to `score`.
+
+## Other operators to recognize
+
+- `<<` and `>>` send/read values with streams such as `std::cout` and `std::cin`.
+- `&` can mean address-of or bitwise AND depending on context; `*` can mean multiplication or pointer dereference.
+- `.` accesses a member, such as `person.name`.
+- `?:` is the conditional operator; learn `if` first.
+
+Parentheses can make the intended order clear. Learn operators as you encounter them rather than memorizing a long catalog.

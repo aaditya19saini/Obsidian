@@ -1,29 +1,25 @@
-[[Initialization]]
-A **narrowing conversion** happens when a value of one data type is converted to another type that cannot guarantee storing all possible values without **data loss** or **loss of precision**.
+﻿# Conversions and narrowing
 
----
-
-## 1. When Narrowing Occurs
-
-| From Type | To Type | What Gets Lost / Problem | Example |
-| :--- | :--- | :--- | :--- |
-| **Floating-point** | **Integer** | Fractional part is completely dropped (truncated) | `double` $\to$ `int` (`3.99` becomes `3`) |
-| **Larger Float** | **Smaller Float** | Precision is lost (if value exceeds target range/precision) | `double` $\to$ `float` |
-| **Larger Integer** | **Smaller Integer** | Value truncated if too large to fit in smaller bit size | `long long` $\to$ `int`, `int` $\to$ `short` / `char` |
-| **Signed Integer** | **Unsigned Integer** | Negative numbers wrap around to massive positive numbers | `int` (`-1`) $\to$ `unsigned int` (`4294967295`) |
-
----
-
-## 2. Silent Narrowing (Old/Traditional C++)
-
-Traditional initialization (`=` or `()`) performs narrowing conversions **silently** without generating compiler errors.
+A conversion changes a value from one type to another. Some conversions are safe for a particular value; others can lose information.
 
 ```cpp
-// 1. Floating-point to integer (Fraction dropped)
-int a = 5.95;       // Silently truncates to 5
+double measurement{3.9};
+int whole = measurement; // becomes 3: the fractional part is discarded
+```
 
-// 2. Large integer to smaller integer (Overflow/Truncation)
-char b = 300;       // Exceeds 1-byte char limit (-128 to 127); overflows/wraps
+A conversion from a wider integer type to a narrower one may not preserve the value. Converting a negative signed number to an unsigned type produces a large nonnegative value; it does not preserve the negative meaning.
 
-// 3. Signed to unsigned (Wrap-around bug)
-unsigned int c = -5; // Wraps to 4294967291
+```cpp
+int signedValue{-1};
+unsigned int unsignedValue = signedValue; // large unsigned value
+```
+
+Do not rely on out-of-range signed integer conversions behaving as wraparound. Their behavior has varied across C++ versions and implementations. Avoid them or check the range first.
+
+List initialization catches many narrowing conversions at compile time:
+
+```cpp
+int a{3.9}; // error: narrowing conversion
+```
+
+But braces do not replace range checks for values read from a user or calculated at runtime. Check that a value fits before converting it. See [[Variables and types]] and [[Input and output]].
