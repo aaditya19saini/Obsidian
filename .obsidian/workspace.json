@@ -25,10 +25,14 @@
             "id": "6954e0f7563d95ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cpp/Assignment operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment operators"
             }
           }
         ],
@@ -193,15 +197,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a3bb4250c44955e7",
+  "active": "6954e0f7563d95ef",
   "lastOpenFiles": [
+    "Cpp/Operators.md",
+    "Cpp/Assignment operators.md",
     "Cpp/README.md",
     "Cpp/Classes and structs.md",
     "Cpp/Conditions and loops.md",
     "Cpp/Errors and debugging.md",
     "Cpp/File input and output.md",
     "Cpp/Pointers and references.md",
-    "Cpp/Operators.md",
     "Cpp/Initialization.md",
     "Cpp/Variables and types.md",
     "Cpp/Hello world.md",
@@ -232,7 +237,6 @@
     "Excalidraw/Drawing 2026-07-09 11.37.21.excalidraw.md",
     "Excalidraw/Drawing 2026-07-09 11.37.28.excalidraw.md",
     "Projects/Monocular depth estimation.md",
-    "Projects/NFL Project.md",
     "ML/Pasted image 20260328194858.png",
     "ML/Pasted image 20260413162835.png",
     "ML/Pasted image 20260406163221.png",

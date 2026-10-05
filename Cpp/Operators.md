@@ -35,3 +35,6 @@ Use `==` to compare values and `=` to assign a value.
 - `?:` is the conditional operator; learn `if` first.
 
 Parentheses can make the intended order clear. Learn operators as you encounter them rather than memorizing a long catalog.
+
+
+[[Assignment operators ]],[[Mathematical operators]] 
