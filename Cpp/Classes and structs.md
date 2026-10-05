@@ -1,4 +1,4 @@
-﻿# Classes and structs
+# Classes and structs
 
 A `struct` or `class` groups related data and functions into a new type. This is useful when several values describe one thing.
 
