@@ -25,14 +25,12 @@
             "id": "fc2595d87a2b94bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cpp/Assignment operators.md",
-                "mode": "source",
-                "source": false
+                "file": "Cpp/20.Sams Teach Yourself C++ in 21 Days.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Assignment operators"
+              "icon": "lucide-file-text",
+              "title": "20.Sams Teach Yourself C++ in 21 Days"
             }
           }
         ],
@@ -199,9 +197,10 @@
   },
   "active": "fc2595d87a2b94bb",
   "lastOpenFiles": [
+    "Cpp/Assignment operators.md",
+    "Cpp/20.Sams Teach Yourself C++ in 21 Days.pdf",
     "Cpp/Operators.md",
     "Untitled.md",
-    "Cpp/Assignment operators.md",
     "Cpp/Classes and structs.md",
     "Cpp/README.md",
     "Cpp/Conditions and loops.md",
@@ -234,9 +233,7 @@
     "obsidian/Uninstall Obsidian.exe",
     "obsidian/snapshot_blob.bin",
     "obsidian/resources.pak",
-    "obsidian/Obsidian.exe",
     "Excalidraw/Drawing 2026-07-09 11.37.21.excalidraw.md",
-    "Excalidraw/Drawing 2026-07-09 11.37.28.excalidraw.md",
     "ML/Pasted image 20260328194858.png",
     "ML/Pasted image 20260413162835.png",
     "ML/Pasted image 20260406163221.png",
