@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Assignment operators"
             }
-          },
-          {
-            "id": "fc2595d87a2b94bb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Cpp/20.Sams Teach Yourself C++ in 21 Days.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "20.Sams Teach Yourself C++ in 21 Days"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +182,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc2595d87a2b94bb",
+  "active": "9853c1dfe794b2b8",
   "lastOpenFiles": [
-    "Cpp/Assignment operators.md",
     "Cpp/20.Sams Teach Yourself C++ in 21 Days.pdf",
+    "Cpp/Assignment operators.md",
     "Cpp/Operators.md",
     "Untitled.md",
     "Cpp/Classes and structs.md",
