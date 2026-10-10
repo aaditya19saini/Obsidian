@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpp/Assignment operators.md",
+                "file": "IITJAM PYQ/2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment operators"
+              "title": "2025"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b32bd60c07d0ebdd",
@@ -178,14 +179,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9853c1dfe794b2b8",
   "lastOpenFiles": [
-    "Cpp/20.Sams Teach Yourself C++ in 21 Days.pdf",
     "Cpp/Assignment operators.md",
+    "IITJAM PYQ/2025.md",
+    "Cpp/Untitled.md",
+    "IITJAM PYQ",
+    "Cpp/20.Sams Teach Yourself C++ in 21 Days.pdf",
     "Cpp/Operators.md",
     "Untitled.md",
     "Cpp/Classes and structs.md",
@@ -219,8 +222,6 @@
     "obsidian/Untitled 1.base",
     "obsidian/Uninstall Obsidian.exe",
     "obsidian/snapshot_blob.bin",
-    "obsidian/resources.pak",
-    "Excalidraw/Drawing 2026-07-09 11.37.21.excalidraw.md",
     "ML/Pasted image 20260328194858.png",
     "ML/Pasted image 20260413162835.png",
     "ML/Pasted image 20260406163221.png",
