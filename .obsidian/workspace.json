@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f31d08c3470ed441",
+        "id": "5c15667770202a97",
         "type": "tabs",
         "children": [
           {
-            "id": "9853c1dfe794b2b8",
+            "id": "386c294a65dd3d02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IITJAM PYQ/2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "New tab"
             }
           }
         ]
@@ -80,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b32bd60c07d0ebdd",
@@ -182,10 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9853c1dfe794b2b8",
+  "active": "386c294a65dd3d02",
   "lastOpenFiles": [
-    "Cpp/Assignment operators.md",
+    "IITJAM PYQ/Untitled 1.base",
+    "IITJAM PYQ/Untitled.base",
     "IITJAM PYQ/2025.md",
+    "Cpp/Assignment operators.md",
     "Cpp/Untitled.md",
     "IITJAM PYQ",
     "Cpp/20.Sams Teach Yourself C++ in 21 Days.pdf",
@@ -217,11 +214,9 @@
     "obsidian/vk_swiftshader_icd.json",
     "obsidian/vk_swiftshader.dll",
     "obsidian/v8_context_snapshot.bin",
-    "obsidian/Untitled.md",
     "obsidian/Untitled.base",
     "obsidian/Untitled 1.base",
     "obsidian/Uninstall Obsidian.exe",
-    "obsidian/snapshot_blob.bin",
     "ML/Pasted image 20260328194858.png",
     "ML/Pasted image 20260413162835.png",
     "ML/Pasted image 20260406163221.png",
