@@ -46,7 +46,7 @@ These rules are useful for finding the probability that several events all occur
 
 ## Independence
 
-Events $A$ and $B$ are independent when knowing that one occurred does not change the probability of the other:
+Events $A$ and $B$ are [[Independence|independent]] when knowing that one occurred does not change the probability of the other:
 
 $$
 P(A\mid B)=P(A)
@@ -63,6 +63,8 @@ and
 $$
 P(A\cap B)=P(A)P(B)
 $$
+
+Conditional independence is a related but distinct idea: two events can be independent given a third event and dependent overall, or independent overall but dependent after conditioning. See [[Conditional independence]] and [[Independence and conditional independence]].
 
 For independent repeated trials, the probability of success stays the same after earlier outcomes are known. This is one of the assumptions behind the [[Binomial probability]] model.
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Conditional probability.md",
+                "file": "Probability/Conditional independence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditional probability"
+              "title": "Conditional independence"
             }
           }
         ],
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Ideas.md",
+                "file": "Probability/Conditional independence.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project Ideas"
+              "title": "Outline"
             }
           },
           {
@@ -197,11 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7017577e6717461",
+  "active": "2b32181915015322",
   "lastOpenFiles": [
+    "Probability/Independence and conditional independence.md",
+    "Probability/Independence.md",
+    "Probability/Conditional probability.md",
+    "Probability/Conditional independence.md",
     "Probability/Taylor series.md",
     "Probability/2026-10-12.md",
-    "Probability/Conditional probability.md",
     "Probability/Binomial probability.md",
     "Probability/Geometric series.md",
     "Probability/Pasted image 20261015225156.png",
@@ -228,9 +231,6 @@
     "Cpp/Pointers and references.md",
     "Cpp/Initialization.md",
     "Cpp/Variables and types.md",
-    "Cpp/Hello world.md",
-    "Cpp/Build and run.md",
-    "Cpp/Multiple source files.md",
     "ML/Copilot_20260329_155235 1.png",
     "ML/Pasted image 20260413162835 1.png",
     "obsidian/vulkan-1.dll",
