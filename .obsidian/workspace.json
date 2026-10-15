@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Taylor series"
             }
+          },
+          {
+            "id": "7e2c3a97803273ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Binomial probability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binomial probability"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,11 +211,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b32181915015322",
+  "active": "7e2c3a97803273ce",
   "lastOpenFiles": [
-    "Probability/Pasted image 20261015225156.png",
+    "Probability/Geometric series.md",
     "Probability/2026-10-12.md",
+    "Probability/Binomial probability.md",
     "Probability/Taylor series.md",
+    "Probability/Pasted image 20261015225156.png",
     "Projects/README.md",
     "Probability/Probability.md",
     "2026-09-27.md",
@@ -229,7 +245,6 @@
     "Cpp/Build and run.md",
     "Cpp/Multiple source files.md",
     "Cpp/Strings and collections.md",
-    "Cpp/Functions and scope.md",
     "ML/Copilot_20260329_155235 1.png",
     "ML/Pasted image 20260413162835 1.png",
     "obsidian/vulkan-1.dll",
@@ -244,7 +259,6 @@
     "Projects/Pasted image 20260322165822.png",
     "Pasted image 20260322165801.png",
     "Pasted image 20260320110312.png",
-    "Pasted image 20260320110145.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
