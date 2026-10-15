@@ -127,6 +127,6 @@ Think of Taylor series as building a function in layers:
 - Cubic and higher terms: capture increasingly subtle local behavior.
     
 
-One important caveat: an infinite Taylor series does not necessarily converge to the original function everywhere. You must consider its interval or region of convergence.
+One important caveat: an infinite Taylor series does not necessarily converge to the original function everywhere. You must consider its interval or region of convergence. A useful example is the expansion of $\frac{1}{1-x}$ from the [[Geometric series]] note, which converges only for $|x|<1$.
 
 My recommendation: Learn Taylor series in this order: derivatives and factorials, Maclaurin expansions of $e^x$, $\sin x$, and $\cos x$, then general Taylor expansions and the remainder/error term. Once those click, the topic becomes much easier.

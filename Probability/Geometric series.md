@@ -174,7 +174,7 @@ $$
  \boxed{\frac{1}{1+x}=1-x+x^2-x^3+\cdots} 
 $$
 
-This is a Maclaurin series, which is a special type of Taylor series.
+This is a Maclaurin series, which is a special type of [[Taylor series|Taylor series]].
 
 ## Key Takeaways
 

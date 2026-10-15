@@ -9,7 +9,7 @@ A random variable $X$ has a binomial distribution when these conditions hold:
 1. There is a fixed number of trials, $n$.
 2. Each trial has two outcomes, usually called success and failure.
 3. The probability of success, $p$, is the same on every trial.
-4. The trials are independent.
+4. The trials are independent. In conditional-probability terms, learning the outcomes of earlier trials does not change the success probability of a later trial; see [[Conditional probability]].
 
 The probability of failure on one trial is $1-p$. The notation is:
 
