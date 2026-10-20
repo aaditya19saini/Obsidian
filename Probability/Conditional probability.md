@@ -12,6 +12,7 @@ $$
 
 Here:
 
+
 - $P(A\mid B)$ means “the probability of $A$ given $B$.”
 - $A\cap B$ means that both $A$ and $B$ occur.
 - $P(B)$ is the probability of the condition event.
