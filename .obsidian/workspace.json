@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Conditional independence.md",
+                "file": "Probability/Cards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditional independence"
+              "title": "Cards"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,25 +211,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98a165505b4d6768",
+  "active": "a7017577e6717461",
   "lastOpenFiles": [
-    "Personal/Intuition.md",
+    "Probability/2026-10-12.md",
+    "Probability/Binomial probability.md",
+    "Probability/Cards.md",
+    "Probability/Conditional independence.md",
+    "Probability/Conditional probability.md",
+    "Probability/Geometric series.md",
+    "Probability/Independence.md",
+    "Probability/Independence and conditional independence.md",
+    "Probability/Monty Hall.md",
+    "Probability/Pasted image 20261015225156.png",
     "DSA/Hash MAPS.md",
+    "Personal/Intuition.md",
     "DSA",
     "Personal/Pasted image 20261019155928.png",
-    "Probability/Conditional probability.md",
-    "Probability/Conditional independence.md",
-    "Probability/Geometric series.md",
-    "Probability/Binomial probability.md",
-    "Probability/Monty Hall.md",
     "Personal",
     "Probability/Pasted image 20261017173231.png",
-    "Probability/Untitled 1.md",
-    "Probability/Independence and conditional independence.md",
-    "Probability/Independence.md",
     "Probability/Taylor series.md",
-    "Probability/2026-10-12.md",
-    "Probability/Pasted image 20261015225156.png",
     "Projects/README.md",
     "Probability/Probability.md",
     "2026-09-27.md",
@@ -248,7 +248,6 @@
     "Cpp/Classes and structs.md",
     "Cpp/README.md",
     "Cpp/Conditions and loops.md",
-    "Cpp/Errors and debugging.md",
     "ML/Copilot_20260329_155235 1.png",
     "ML/Pasted image 20260413162835 1.png",
     "obsidian/vulkan-1.dll",
