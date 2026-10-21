@@ -10,7 +10,7 @@ If you do not play cards often, these basics are enough to follow the probabilit
 - The four **suits** are clubs (♣), diamonds (♦), hearts (♥), and spades (♠). Each suit has 13 cards. Diamonds and hearts are red; clubs and spades are black.
 - The **ranks** are 2, 3, 4, 5, 6, 7, 8, 9, 10, jack (J), queen (Q), king (K), and ace (A). Jack, queen, and king are often called **face cards**. In many poker straights, an ace can be high (10-J-Q-K-A) or low (A-2-3-4-5), but it cannot wrap around (Q-K-A-2-3 is not a straight).
 - A **hand** is the group of cards dealt to one player. In the examples here, it means five cards. The order of cards in a hand does not matter: holding 2♣, 5♦, 7♥, 9♠, K♣ is the same hand whichever order they were dealt.
-- A **rank match** means cards have the same number or letter, regardless of suit. For example, 8♣ and 8♥ are a pair of eights.
+- A <mark style="background: #FFB8EBA6;">**rank match** means cards have the same number or letter, regardless of suit. For example, 8♣ and 8♥ are a pair of eights.</mark>
 
 ### Common five-card hand names
 
@@ -26,7 +26,7 @@ These names describe patterns in the ranks and suits of a five-card hand:
 - **Straight flush:** a straight where all five cards also share the same suit.
 - **High card:** none of the patterns above; the hand is described by its highest card.
 
-In ordinary poker, these categories are ordered roughly from most common to rarest as high card, one pair, two pair, three of a kind, straight, flush, full house, four of a kind, straight flush. “Royal flush” is the special name for the ace-high straight flush (10-J-Q-K-A of one suit).
+In ordinary poker, these categories are ordered roughly from most common to rarest as high card, one pair, two pair, three of a kind, straight, flush, full house, four of a kind, straight flush. ==“Royal flush” is the special name for the ace-high straight flush (10-J-Q-K-A of one suit).==
 
 ## The standard deck
 
