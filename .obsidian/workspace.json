@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b32bd60c07d0ebdd",
@@ -181,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b32181915015322",
+  "active": "a7017577e6717461",
   "lastOpenFiles": [
     "DSA/Hash MAPS.md",
     "DSA/Patterns.md",
