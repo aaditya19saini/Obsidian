@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Patterns.md",
+                "file": "DSA/Array Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Patterns"
+              "title": "Array Basics"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "a7017577e6717461",
   "lastOpenFiles": [
-    "DSA/Hash MAPS.md",
     "DSA/Patterns.md",
+    "DSA/Array Basics.md",
+    "DSA/Hash MAPS.md",
     "DSA/time complexity.md",
     "Probability/Cards.md",
     "DSA/question/pat3.cpp~",
