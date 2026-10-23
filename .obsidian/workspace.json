@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90bb651f31b1df63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/2026-10-12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-12"
-            }
-          },
-          {
             "id": "a7017577e6717461",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Cards.md",
+                "file": "DSA/time complexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cards"
-            }
-          },
-          {
-            "id": "98a165505b4d6768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Hash MAPS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hash MAPS"
+              "title": "time complexity"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,9 +184,12 @@
   },
   "active": "a7017577e6717461",
   "lastOpenFiles": [
+    "DSA/Hash MAPS.md",
+    "DSA/time complexity.md",
     "Probability/2026-10-12.md",
-    "Probability/Binomial probability.md",
     "Probability/Cards.md",
+    "Cpp/Classes and structs.md",
+    "Probability/Binomial probability.md",
     "Probability/Conditional independence.md",
     "Probability/Conditional probability.md",
     "Probability/Geometric series.md",
@@ -223,7 +197,6 @@
     "Probability/Independence and conditional independence.md",
     "Probability/Monty Hall.md",
     "Probability/Pasted image 20261015225156.png",
-    "DSA/Hash MAPS.md",
     "Personal/Intuition.md",
     "DSA",
     "Personal/Pasted image 20261019155928.png",
@@ -245,7 +218,6 @@
     "IITJAM PYQ",
     "Cpp/20.Sams Teach Yourself C++ in 21 Days.pdf",
     "Cpp/Operators.md",
-    "Cpp/Classes and structs.md",
     "Cpp/README.md",
     "Cpp/Conditions and loops.md",
     "ML/Copilot_20260329_155235 1.png",
