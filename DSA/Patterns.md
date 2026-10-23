@@ -1,0 +1,4 @@
+1. for the outer loop count the number of lines 
+2. for the inner loop count the number of columns and connect them somehow to the rows
+3. print (anything) inside the for loop
+4. observe symmetry 
