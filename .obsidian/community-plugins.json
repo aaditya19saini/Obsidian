@@ -2,5 +2,7 @@
   "highlightr-plugin",
   "obsidian-git",
   "colored-text",
-  "obsidian-clipper"
+  "obsidian-clipper",
+  "vscode-editor",
+  "copilot"
 ]
