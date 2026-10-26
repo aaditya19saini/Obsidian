@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Array Basics.md",
+                "file": "DSA/question/Encode and decode the strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array Basics"
+              "title": "Encode and decode the strings"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b32bd60c07d0ebdd",
@@ -195,6 +196,8 @@
   },
   "active": "7481b5902abc145e",
   "lastOpenFiles": [
+    "DSA/Array Basics.md",
+    "DSA/question/Encode and decode the strings.md",
     "DSA/Hash Sets and Hash Maps.md",
     "DSA/question/pat3.cpp",
     "DSA/question/pat2.cpp",
@@ -203,7 +206,6 @@
     "Excalidraw/Drawing 2026-07-09 11.37.21.excalidraw.md",
     "Excalidraw/Drawing 2026-03-19 11.01.08.excalidraw.md",
     "DSA/Untitled 1.md",
-    "DSA/Array Basics.md",
     "DSA/Untitled.md",
     "Untitled.md",
     "DSA/Patterns.md",
