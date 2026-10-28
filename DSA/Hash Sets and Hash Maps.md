@@ -1,4 +1,5 @@
 
+	```
 
 Hashing stores or retrieves information by a **key**. It is useful when an algorithm repeatedly needs to test membership, count occurrences, or look up data associated with a value
 
